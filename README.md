@@ -2,6 +2,7 @@
 
 A general-purpose data cleaning pipeline applied to a real-world Airbnb dataset containing **102,000+ rows**. This project demonstrates practical data wrangling skills essential for any data science or machine learning workflow.
 
+[View notebook] (https://nbviewer.org/github/ayushkdm/airbnb-data-cleaning/blob/main/notebook/Airbnb.ipynb)
 ---
 
 ## 📌 Project Overview
