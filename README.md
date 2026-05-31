@@ -3,6 +3,8 @@
 A general-purpose data cleaning applied to a real-world Airbnb dataset containing **102,000+ rows**. This project demonstrates practical data wrangling skills essential for any data science or machine learning workflow.
 
 [View notebook] (https://nbviewer.org/github/ayushkdm/airbnb-data-cleaning/blob/main/notebook/Airbnb.ipynb)
+
+[View dataset] (https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
 ---
 
 ## 📌 Project Overview
@@ -18,12 +20,12 @@ airbnb-data-cleaning/
 │
 ├── data/
 │   ├── raw/
-│   │   └── airbnb_raw.csv          # Original, unmodified dataset
+│   │   └── Airbnb_Open_Data.csv          # Original, unmodified dataset
 │   └── cleaned/
-│       └── airbnb_cleaned.csv      # Final cleaned output
+│       └── Airbnb_cleaned.csv      # Final cleaned output
 │
 ├── notebook/
-│   └── data_cleaning.ipynb         # Step-by-step cleaning notebook
+│   └── Airbnb.ipynb         # Step-by-step cleaning notebook
 │
 ├── .gitignore
 ├── requirements.txt
@@ -83,7 +85,7 @@ pip install -r requirements.txt
 
 ### 3. Run the notebook
 ```bash
-jupyter notebook notebook/data_cleaning.ipynb
+jupyter notebook notebook/Airbnb.ipynb
 ```
 
 ---
