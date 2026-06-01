@@ -23,7 +23,7 @@ airbnb-data-cleaning/
 │   ├── raw/
 │   │   └── Airbnb_Open_Data.csv          # Original, unmodified dataset
 │   └── cleaned/
-│       └── Airbnb_cleaned.csv      # Final cleaned output
+│       └── Airbnb_cleaned.xlsx      # Final cleaned output
 │
 ├── notebook/
 │   └── Airbnb.ipynb         # Step-by-step cleaning notebook
