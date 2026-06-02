@@ -1,4 +1,4 @@
-# 🏠 Airbnb Data Cleaning Project
+# Airbnb Data Cleaning Project
 
 A general-purpose data cleaning applied to a real-world Airbnb dataset containing **102,000+ rows**. This project demonstrates practical data wrangling skills essential for any data science or machine learning workflow.
 
@@ -8,7 +8,7 @@ A general-purpose data cleaning applied to a real-world Airbnb dataset containin
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Raw data is rarely ready to use. This project takes a large, messy Airbnb dataset and transforms it into a clean, analysis-ready format using Python. The focus is on building a reusable, well-documented cleaning process — not tied to any specific ML goal — making it applicable as a preprocessing template for similar datasets.
 
@@ -35,7 +35,7 @@ airbnb-data-cleaning/
 
 ---
 
-## 🧹 Cleaning Steps Performed
+## Cleaning Steps Performed
 
 | Step | Description |
 |------|-------------|
@@ -48,7 +48,7 @@ airbnb-data-cleaning/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** Kaggle
 - **Raw Size:** ~102,000 rows
@@ -58,7 +58,7 @@ airbnb-data-cleaning/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Library | Purpose |
 |---------|---------|
@@ -71,7 +71,7 @@ airbnb-data-cleaning/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -91,7 +91,7 @@ jupyter notebook notebook/Airbnb.ipynb
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 - Real-world datasets require multi-step cleaning before they're usable
 - A structured, documented cleaning pipeline improves reproducibility
